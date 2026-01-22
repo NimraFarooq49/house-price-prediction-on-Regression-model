@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+kaleido==0.2.1
